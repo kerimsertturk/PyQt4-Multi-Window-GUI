@@ -85,7 +85,7 @@ def page1(self):
 ```
 At this point the home page  will look similar to the one below
 
-![home_page](C:/Users/Kerim/Documents/GitHub/pyqt/base_home.jpg "Home Page")
+![home_page](https://github.com/kerimsertturk/PyQt4-Multi-Window-GUI/blob/master/base_home.JPG "Home Page")
 
 Now we will create the first page. We have to also create `window_signal1` again because 
 each page is a different class from the Main Window hence the signals are local objects. 
@@ -115,7 +115,7 @@ def home(self):
 ```
 This is how Page 1 will more or less look like
 
-![page_one](C:/Users/Kerim/Documents/GitHub/pyqt/base_one.jpg "Page 1")
+![page_one](https://github.com/kerimsertturk/PyQt4-Multi-Window-GUI/blob/master/base_one.JPG "Page 1")
 
 
 The Controller will pick up signals and control the switching between the pages and the home page. 
